@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algorithm1/Algorithm1.iml" filepath="$PROJECT_DIR$/Algorithm1/Algorithm1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm10/Algorithm10.iml" filepath="$PROJECT_DIR$/Algorithm10/Algorithm10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm2/Algorithm2.iml" filepath="$PROJECT_DIR$/Algorithm2/Algorithm2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm3/Algorithm3.iml" filepath="$PROJECT_DIR$/Algorithm3/Algorithm3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm4/Algorithm4.iml" filepath="$PROJECT_DIR$/Algorithm4/Algorithm4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm5/Algorithm5.iml" filepath="$PROJECT_DIR$/Algorithm5/Algorithm5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm6/Algorithm6.iml" filepath="$PROJECT_DIR$/Algorithm6/Algorithm6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm7/Algorithm7.iml" filepath="$PROJECT_DIR$/Algorithm7/Algorithm7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm8/Algorithm8.iml" filepath="$PROJECT_DIR$/Algorithm8/Algorithm8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm9/Algorithm9.iml" filepath="$PROJECT_DIR$/Algorithm9/Algorithm9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlgorithmTestsJava.iml" filepath="$PROJECT_DIR$/AlgorithmTestsJava.iml" />
+    </modules>
+  </component>
+</project>
