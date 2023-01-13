@@ -42,6 +42,7 @@ public class AlgorithmTests
         assertArrayEquals(expectedResult, result);
     }
 
+    // region Tests
     @Test
     public void Test2()
     {
@@ -71,4 +72,5 @@ public class AlgorithmTests
         // Assert
         assertArrayEquals(expectedResult, result);
     }
+    // endregion
 }

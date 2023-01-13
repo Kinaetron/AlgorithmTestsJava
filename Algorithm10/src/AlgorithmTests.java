@@ -34,6 +34,7 @@ public class AlgorithmTests
         return Arrays.copyOfRange(nums1, 0, k);
     }
 
+    // region Tests
     @Test
     public void Test1()
     {
@@ -63,4 +64,5 @@ public class AlgorithmTests
         // Assert
         assertArrayEquals(expectedResult, result);
     }
+    // endregion
 }

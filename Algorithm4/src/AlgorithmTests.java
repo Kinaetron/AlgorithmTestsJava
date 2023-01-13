@@ -34,6 +34,7 @@ public class AlgorithmTests
         return -1;
     }
 
+    // region Tests
     @Test
     public void Test1()
     {
@@ -72,4 +73,5 @@ public class AlgorithmTests
         // Assert
         assertEquals(-1, result);
     }
+    // endregion
 }

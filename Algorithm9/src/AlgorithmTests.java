@@ -24,6 +24,7 @@ public class AlgorithmTests
         return Integer.MIN_VALUE;
     }
 
+    // region Tests
     @Test
     public void Test1()
     {
@@ -65,4 +66,5 @@ public class AlgorithmTests
         // Assert
         assertEquals(expectedResult, result);
     }
+    // endregion
 }
